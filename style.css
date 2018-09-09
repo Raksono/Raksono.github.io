@@ -55,3 +55,10 @@ h1{
   font-siye: 16px;
 }
 
+.loginbox input[type="submit"]:hover
+{
+  cursor: pointer;
+  background: #3EC36B;
+  color: #000;
+}
+
